@@ -6,7 +6,7 @@ Glad to see you here!  I'm a graduate in Aeronautical Engineering 🎓 from JNTU
 A newbie on GitHub but I believe in better late than never!!!! 
 
 Talking about Personal Stuffs:
-  1. 🚀   I’m currently working on understanding Neural Networks
+  1. 🚀   I’m currently learning Deep Learning as part of my course curriculum
   2. 👨🏻‍💻   Most of my projects are available on GitHub.
   3. 💬   Ask me about anything here! I am happy to help.
   4. 📫   How to reach me: popuritejaswini92@gmail.com.
